@@ -14,19 +14,19 @@
 
 ## Blogs
 
-Week 1 : []() 
+Week 1 : [Interviewing humans](https://medium.com/@e.roberts/reflect-back-on-the-interviews-that-you-conducted-at-the-nmm-506e1216ff2e) 
 
-Week 2: []() 
+Week 2: [Learning to wireframe: 10 best practices](https://medium.com/@e.roberts/initial-wireframing-157d4b572b64) 
 
-Week 3: []() 
+Week 3: [Inspiring museum interactives]() 
 
-Week 4: []() 
+Week 4: [Formative feedback action plan]() 
 
-Week 5: []()
+Week 5: [User-testing: what did we learn?]()
 
-Week 6: []() 
+Week 6: [Telling the story of your project / research]() 
 
-Week 7: []() 
+Week 7: [UX choreography]() 
 
 
 ## Links
