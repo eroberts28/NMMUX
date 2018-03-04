@@ -32,15 +32,14 @@ Week 7: [UX choreography](https://medium.com/@e.roberts/the-principles-of-ux-cho
 ## Links
 
 * [Competitor analysis]()
-* [Elevator pitch]()
-* [Concept one-pager]()
-* [Experience map]()
-* [User personas]()
-* [Wireframes]()
-* [Prototype(s)]()
-* [Concept video]()
-* [User-testing report]()
-* [Formative Presentation]()
+* [Elevator pitch](https://docs.google.com/document/d/1BE6kNt3eiLjAyIQwPdFBx-tMPPay1wcnPm-Bp3PVhFo/edit?usp=sharing)
+* [Concept one-pager](https://drive.google.com/drive/folders/1Lb50Fly0RKM2zY7HxJNB4Xo8_nNznVSw)
+* [Experience map](https://drive.google.com/drive/folders/1AAYx4zLxSDyh7Wz72Oa-B1LHZ3HTFBk2)
+* [User personas](https://docs.google.com/document/d/1nuUEwtTRya-MOxOxv9aL8xgKd3hIcd5bOLHHpHA-xIo/edit?usp=sharing)
+* [Wireframes/Prototype(s)](https://drive.google.com/drive/folders/1HaQN0hdoviX_NbT50Ce0UB-kxaOMpmXH)
+* [Concept video](https://drive.google.com/drive/folders/1f9EkY9NbzDCa7V7goR0gRE3891_lgEWF)
+* [User-testing report](https://docs.google.com/document/d/1jWZuSJEXjjGXChsbQd6TQ62c6SntynQdH4mpokKbRf0/edit?ts=5a945079)
+* [Formative Presentation](https://docs.google.com/presentation/d/1b-qZ09Y0v8VqRo4HITbJ6dV3Ls428L1KJwMRO4gR6yg/edit?usp=sharing)
 * [Summative Presentation]()
 
 
