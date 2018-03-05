@@ -42,7 +42,7 @@ Week 7: [UX choreography](https://medium.com/@e.roberts/the-principles-of-ux-cho
 * [Promotional Material](https://drive.google.com/drive/folders/1aR_5NYr4bWQS6VfH6vKy4q0paLGXJwlT)
 * [Formative Presentation](https://docs.google.com/presentation/d/1b-qZ09Y0v8VqRo4HITbJ6dV3Ls428L1KJwMRO4gR6yg/edit?usp=sharing)
 * [Summative Presentation](https://docs.google.com/presentation/d/15udUVy1AW3iuMuC5vgIm7zAlcPC2hJRCTsmUcB5oaws/edit?ts=5a9bee46#slide=id.p)
-* [Self Assessment]()
+* [Self Assessment](https://docs.google.com/document/d/1G8e8L8a1BrV3C8b4ild98HEWfuCcZ-3S2cvf-3rJ9Ic/edit?usp=sharing)
 
 
 
