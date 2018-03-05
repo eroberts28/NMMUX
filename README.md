@@ -1,4 +1,4 @@
-# Designing the User Experience
+# Designing the User Experience - National Maritime Museum
 
 ## Info
 
@@ -9,8 +9,7 @@
 **Course:** WEB14205
 
 ## Introduction
-
-
+For this project we had the chance to create something based off of a live brief. This was a great experience to get a taster of what it is like to work with a client based off of a brief. Learning about UX has taught me a lot about the process of creating prototypes rather than just going straight into design.
 
 ## Blogs
 
