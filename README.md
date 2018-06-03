@@ -30,19 +30,35 @@ Week 7: [UX choreography](https://medium.com/@e.roberts/the-principles-of-ux-cho
 
 ## Links
 
-* [Competitor analysis](https://drive.google.com/drive/folders/1FO2njPzHaYlo1aj0ZpS9RkBObjGMMq3N)
-* [Elevator pitch](https://drive.google.com/drive/folders/1N0H9IihnoK2l2EOg5k7lR8IbrE_hLD4W)
-* [Concept one-pager](https://drive.google.com/drive/folders/1Lb50Fly0RKM2zY7HxJNB4Xo8_nNznVSw)
-* [Experience map](https://drive.google.com/drive/folders/1AAYx4zLxSDyh7Wz72Oa-B1LHZ3HTFBk2)
-* [User personas](https://drive.google.com/drive/folders/17pVf29ZKb1YomhAr3YOx6kjUEAntgfIy)
-* [Wireframes/Prototype(s)](https://drive.google.com/drive/folders/1HaQN0hdoviX_NbT50Ce0UB-kxaOMpmXH)
-* [Invision Prototype](https://invis.io/2UG1FOJH8TQ#/281471817_Main)
-* [Concept video](https://drive.google.com/drive/folders/1f9EkY9NbzDCa7V7goR0gRE3891_lgEWF)
-* [User-testing report](https://drive.google.com/drive/folders/1D7DY2MwDzel39PvJlGt600-HE8Qyc_fg)
-* [Promotional Material](https://drive.google.com/drive/folders/1aR_5NYr4bWQS6VfH6vKy4q0paLGXJwlT)
-* [Formative Presentation](https://docs.google.com/presentation/d/1b-qZ09Y0v8VqRo4HITbJ6dV3Ls428L1KJwMRO4gR6yg/edit?usp=sharing)
-* [Summative Presentation](https://docs.google.com/presentation/d/15udUVy1AW3iuMuC5vgIm7zAlcPC2hJRCTsmUcB5oaws/edit?ts=5a9bee46#slide=id.p)
-* [Self Assessment](https://docs.google.com/document/d/1G8e8L8a1BrV3C8b4ild98HEWfuCcZ-3S2cvf-3rJ9Ic/edit?usp=sharing)
+- [Competitor Analysis](https://docs.google.com/document/d/16z2I7wVwDuB2SCv0KfR5l9Q09AKyHxqlzeIi35_LZiE/edit?usp=sharing)
+
+- [Elevator Pitch](https://docs.google.com/document/d/1BE6kNt3eiLjAyIQwPdFBx-tMPPay1wcnPm-Bp3PVhFo/edit?usp=sharing)
+
+- [Concept One-Pager](https://drive.google.com/open?id=1QI22IYwxEQ2qsztWno4WANPenvXDHCtd)
+
+- [Experience Map](https://drive.google.com/open?id=1_XL4IqRxb3_Pa00-9rjZJZrMpddSthbV)
+
+- [Wireframe](https://drive.google.com/open?id=1QBwGmEc76i2VhlowwlY_QncfaW7i-i0r)
+
+- [Old - Wireframe](https://drive.google.com/open?id=1Ax-GxF2x4j3uCvNocFr6xK7va6gPXEx2)
+
+- [Formative Presentation](https://docs.google.com/presentation/d/1b-qZ09Y0v8VqRo4HITbJ6dV3Ls428L1KJwMRO4gR6yg/edit?usp=sharing)
+
+- [User Personas](https://drive.google.com/open?id=1wiqK86ZtF93fom-lLNzfQ-gUthPyC00Z)
+
+- [Prototype(s)](https://drive.google.com/open?id=19mu0IXeoLZ5PwW9MF-MzsfgZ35Y3i4F2)
+
+- [UX Map With Wireframes](https://drive.google.com/file/d/1lbF-6ydkF2BIYc1ruW7H5n6r372X0UvW/view?usp=sharing)
+
+- [Invision Prototype](https://invis.io/2UG1FOJH8TQ#/281471817_Main)
+
+- [Concept video](https://drive.google.com/open?id=1LiPQQcwGsv-QhvMZ1oBF5APpZrYQ7A7r)
+
+- [User-testing report](https://docs.google.com/document/d/1jWZuSJEXjjGXChsbQd6TQ62c6SntynQdH4mpokKbRf0/edit?usp=sharing)
+
+- [Summative presentation](https://docs.google.com/presentation/d/15udUVy1AW3iuMuC5vgIm7zAlcPC2hJRCTsmUcB5oaws/edit?usp=sharing)
+
+- [Self Assesment](https://docs.google.com/document/d/1G8e8L8a1BrV3C8b4ild98HEWfuCcZ-3S2cvf-3rJ9Ic/edit?usp=sharing)
 
 
 
