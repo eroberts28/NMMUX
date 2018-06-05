@@ -11,6 +11,8 @@
 ## Introduction
 For this project we had the chance to create something based off of a live brief. This was a great experience to get a taster of what it is like to work with a client based off of a brief. Learning about UX has taught me a lot about the process of creating prototypes rather than just going straight into design.
 
+### Changes - User testing Report has been changed to be more specific. - Blogs has been proof read and changed. - Competitor Analysis has now been changed to reflect the questions in class. - Wireframes has now got a flow with the screens, it is labelled 'UX Map With Wireframes' above. - Wireframes have real content within it now. - Invision prototype has been updated with the real content and the navigation has been checked on pages. - Correct elevator pitch submitted. - Concept Video has a voiceover. - Presentation style is now using the colours from wireframe. - Elevator pitch updated.
+
 ## Blogs
 
 Week 1 : [Interviewing humans](https://medium.com/@e.roberts/reflect-back-on-the-interviews-that-you-conducted-at-the-nmm-506e1216ff2e) 
